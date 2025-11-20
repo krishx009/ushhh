@@ -158,5 +158,23 @@ postbuild:
 
 archive -> **/*
 
+•	Manage Jenkins → Manage Plugins
+•	Manage Jenkins → Configure System
+smtp.gmail.com
+✅ Enabled
+Your Gmail ID (e.g., archanareddykmit@gmail.com)
+Paste the 16-digit App Password
+check ssl
+465 port
 
 
+
+
+manage jenkins     •	Manage Jenkins → Manage Plugins
+
+
+
+atlurivenkat1@gmail.com
+adityapanyalastudy@gmail.com
+karthikbilakanti18@gmail.com
+sairushikpro@gmail.com
